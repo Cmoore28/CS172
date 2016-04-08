@@ -1,0 +1,23 @@
+﻿Build started 4/7/2016 9:28:51 PM.
+     1>Project "E:\CS172\HW5\EX05_05(11.13)\EX05_05(11.13)\EX05_05(11.13).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Course.cpp
+         Course.cpp
+     1>e:\cs172\hw5\ex05_05(11.13)\ex05_05(11.13)\course.cpp(55): warning C4700: uninitialized local variable 'temp' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\CS172\HW5\EX05_05(11.13)\Debug\EX05_05(11.13).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\CS172\HW5\EX05_05(11.13)\Debug\EX05_05(11.13).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\CS172\HW5\EX05_05(11.13)\Debug\EX05_05(11.13).lib" /MACHINE:X86 Debug\Course.obj
+         Debug\Main.obj
+     1>Main.obj : error LNK2005: "public: __thiscall Course::Course(void)" (??0Course@@QAE@XZ) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: void __thiscall Course::addStudent(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?addStudent@Course@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: void __thiscall Course::clear(void)" (?clear@Course@@QAEXXZ) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: void __thiscall Course::dropStudent(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?dropStudent@Course@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Course::getCourseName(void)" (?getCourseName@Course@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: int __thiscall Course::getNumberOfStudents(void)const " (?getNumberOfStudents@Course@@QBEHXZ) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * __thiscall Course::getStudents(void)const " (?getStudents@Course@@QBEPAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Course.obj
+     1>Main.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * __thiscall Course::increase_capacity(void)" (?increase_capacity@Course@@QAEPAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Course.obj
+     1>E:\CS172\HW5\EX05_05(11.13)\Debug\EX05_05(11.13).exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "E:\CS172\HW5\EX05_05(11.13)\EX05_05(11.13)\EX05_05(11.13).vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.85
