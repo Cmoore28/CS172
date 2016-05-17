@@ -1,0 +1,2012 @@
+size of stack:  1
+[checkAvail]coords:   1   0
+options: 1     coords: 1      0
+direction:2
+size of stack:  2
+[checkAvail]coords:   1   1
+options: 1     coords: 1      1
+direction:2
+size of stack:  3
+[checkAvail]coords:   1   2
+options: 2     coords: 1      2
+direction:3
+size of stack:  4
+[checkAvail]coords:   2   2
+options: 2     coords: 2      2
+direction:3
+size of stack:  5
+[checkAvail]coords:   3   2
+options: 3     coords: 3      2
+direction:3
+size of stack:  6
+[checkAvail]coords:   4   2
+options: 3     coords: 4      2
+direction:2
+size of stack:  7
+[checkAvail]coords:   4   3
+options: 2     coords: 4      3
+direction:3
+size of stack:  8
+[checkAvail]coords:   5   3
+options: 2     coords: 5      3
+direction:3
+size of stack:  9
+[checkAvail]coords:   6   3
+options: 3     coords: 6      3
+direction:0
+size of stack:  10
+[checkAvail]coords:   6   2
+options: 2     coords: 6      2
+direction:3
+size of stack:  11
+[checkAvail]coords:   7   2
+options: 2     coords: 7      2
+direction:0
+size of stack:  12
+[checkAvail]coords:   7   1
+options: 0     coords: 7      1
+pop
+size of stack:  11
+[checkAvail]coords:   7   2
+options: 1     coords: 7      2
+direction:3
+size of stack:  12
+[checkAvail]coords:   8   2
+options: 3     coords: 8      2
+direction:3
+size of stack:  13
+[checkAvail]coords:   9   2
+options: 3     coords: 9      2
+direction:3
+size of stack:  14
+[checkAvail]coords:   10   2
+options: 3     coords: 10      2
+direction:0
+size of stack:  15
+[checkAvail]coords:   10   1
+options: 0     coords: 10      1
+pop
+size of stack:  14
+[checkAvail]coords:   10   2
+options: 2     coords: 10      2
+direction:2
+size of stack:  15
+[checkAvail]coords:   10   3
+options: 2     coords: 10      3
+direction:3
+size of stack:  16
+[checkAvail]coords:   11   3
+options: 2     coords: 11      3
+direction:2
+size of stack:  17
+[checkAvail]coords:   11   4
+options: 2     coords: 11      4
+direction:2
+size of stack:  18
+[checkAvail]coords:   11   5
+options: 3     coords: 11      5
+direction:3
+size of stack:  19
+[checkAvail]coords:   12   5
+options: 2     coords: 12      5
+direction:2
+size of stack:  20
+[checkAvail]coords:   12   6
+options: 2     coords: 12      6
+direction:3
+size of stack:  21
+[checkAvail]coords:   13   6
+options: 2     coords: 13      6
+direction:3
+size of stack:  22
+[checkAvail]coords:   14   6
+options: 3     coords: 14      6
+direction:0
+size of stack:  23
+[checkAvail]coords:   14   5
+options: 2     coords: 14      5
+direction:3
+size of stack:  24
+[checkAvail]coords:   15   5
+options: 2     coords: 15      5
+direction:0
+size of stack:  25
+[checkAvail]coords:   15   4
+options: 2     coords: 15      4
+direction:0
+size of stack:  26
+[checkAvail]coords:   15   3
+options: 3     coords: 15      3
+direction:3
+size of stack:  27
+[checkAvail]coords:   16   3
+options: 2     coords: 16      3
+direction:0
+size of stack:  28
+[checkAvail]coords:   16   2
+options: 2     coords: 16      2
+direction:3
+size of stack:  29
+[checkAvail]coords:   17   2
+options: 2     coords: 17      2
+direction:0
+size of stack:  30
+[checkAvail]coords:   17   1
+options: 0     coords: 17      1
+pop
+size of stack:  29
+[checkAvail]coords:   17   2
+options: 1     coords: 17      2
+direction:3
+size of stack:  30
+[checkAvail]coords:   18   2
+options: 3     coords: 18      2
+direction:3
+size of stack:  31
+[checkAvail]coords:   19   2
+options: 2     coords: 19      2
+direction:0
+size of stack:  32
+[checkAvail]coords:   19   1
+options: 0     coords: 19      1
+pop
+size of stack:  31
+[checkAvail]coords:   19   2
+options: 1     coords: 19      2
+direction:2
+size of stack:  32
+[checkAvail]coords:   19   3
+options: 1     coords: 19      3
+direction:2
+size of stack:  33
+[checkAvail]coords:   19   4
+options: 2     coords: 19      4
+direction:2
+size of stack:  34
+[checkAvail]coords:   19   5
+options: 2     coords: 19      5
+direction:2
+size of stack:  35
+[checkAvail]coords:   19   6
+options: 2     coords: 19      6
+direction:1
+size of stack:  36
+[checkAvail]coords:   18   6
+options: 2     coords: 18      6
+direction:2
+size of stack:  37
+[checkAvail]coords:   18   7
+options: 2     coords: 18      7
+direction:1
+size of stack:  38
+[checkAvail]coords:   17   7
+options: 2     coords: 17      7
+direction:1
+size of stack:  39
+[checkAvail]coords:   16   7
+options: 3     coords: 16      7
+direction:0
+size of stack:  40
+[checkAvail]coords:   16   6
+options: 0     coords: 16      6
+pop
+size of stack:  39
+[checkAvail]coords:   16   7
+options: 2     coords: 16      7
+direction:1
+size of stack:  40
+[checkAvail]coords:   15   7
+options: 1     coords: 15      7
+direction:2
+size of stack:  41
+[checkAvail]coords:   15   8
+options: 2     coords: 15      8
+direction:2
+size of stack:  42
+[checkAvail]coords:   15   9
+options: 3     coords: 15      9
+direction:3
+size of stack:  43
+[checkAvail]coords:   16   9
+options: 2     coords: 16      9
+direction:2
+size of stack:  44
+[checkAvail]coords:   16   10
+options: 2     coords: 16      10
+direction:3
+size of stack:  45
+[checkAvail]coords:   17   10
+options: 2     coords: 17      10
+direction:2
+size of stack:  46
+[checkAvail]coords:   17   11
+options: 2     coords: 17      11
+direction:3
+size of stack:  47
+[checkAvail]coords:   18   11
+options: 2     coords: 18      11
+direction:3
+size of stack:  48
+[checkAvail]coords:   19   11
+options: 2     coords: 19      11
+direction:0
+size of stack:  49
+[checkAvail]coords:   19   10
+options: 1     coords: 19      10
+direction:0
+size of stack:  50
+[checkAvail]coords:   19   9
+options: 2     coords: 19      9
+direction:1
+size of stack:  51
+[checkAvail]coords:   18   9
+options: 0     coords: 18      9
+pop
+size of stack:  50
+[checkAvail]coords:   19   9
+options: 1     coords: 19      9
+direction:0
+size of stack:  51
+[checkAvail]coords:   19   8
+options: 0     coords: 19      8
+pop
+size of stack:  50
+[checkAvail]coords:   19   9
+options: 0     coords: 19      9
+pop
+size of stack:  49
+[checkAvail]coords:   19   10
+options: 0     coords: 19      10
+pop
+size of stack:  48
+[checkAvail]coords:   19   11
+options: 1     coords: 19      11
+direction:2
+size of stack:  49
+[checkAvail]coords:   19   12
+options: 1     coords: 19      12
+direction:2
+size of stack:  50
+[checkAvail]coords:   19   13
+options: 2     coords: 19      13
+direction:1
+size of stack:  51
+[checkAvail]coords:   18   13
+options: 2     coords: 18      13
+direction:2
+size of stack:  52
+[checkAvail]coords:   18   14
+options: 2     coords: 18      14
+direction:1
+size of stack:  53
+[checkAvail]coords:   17   14
+options: 2     coords: 17      14
+direction:2
+size of stack:  54
+[checkAvail]coords:   17   15
+options: 2     coords: 17      15
+direction:2
+size of stack:  55
+[checkAvail]coords:   17   16
+options: 3     coords: 17      16
+direction:2
+size of stack:  56
+[checkAvail]coords:   17   17
+options: 3     coords: 17      17
+direction:2
+size of stack:  57
+[checkAvail]coords:   17   18
+options: 3     coords: 17      18
+direction:2
+size of stack:  58
+[checkAvail]coords:   17   19
+options: 2     coords: 17      19
+direction:3
+size of stack:  59
+[checkAvail]coords:   18   19
+options: 1     coords: 18      19
+direction:3
+size of stack:  60
+[checkAvail]coords:   19   19
+options: 1     coords: 19      19
+direction:0
+size of stack:  61
+[checkAvail]coords:   19   18
+options: 1     coords: 19      18
+direction:0
+size of stack:  62
+[checkAvail]coords:   19   17
+options: 1     coords: 19      17
+direction:0
+size of stack:  63
+[checkAvail]coords:   19   16
+options: 1     coords: 19      16
+direction:0
+size of stack:  64
+[checkAvail]coords:   19   15
+options: 0     coords: 19      15
+pop
+size of stack:  63
+[checkAvail]coords:   19   16
+options: 0     coords: 19      16
+pop
+size of stack:  62
+[checkAvail]coords:   19   17
+options: 0     coords: 19      17
+pop
+size of stack:  61
+[checkAvail]coords:   19   18
+options: 0     coords: 19      18
+pop
+size of stack:  60
+[checkAvail]coords:   19   19
+options: 0     coords: 19      19
+pop
+size of stack:  59
+[checkAvail]coords:   18   19
+options: 0     coords: 18      19
+pop
+size of stack:  58
+[checkAvail]coords:   17   19
+options: 1     coords: 17      19
+direction:1
+size of stack:  59
+[checkAvail]coords:   16   19
+options: 1     coords: 16      19
+direction:1
+size of stack:  60
+[checkAvail]coords:   15   19
+options: 2     coords: 15      19
+direction:0
+size of stack:  61
+[checkAvail]coords:   15   18
+options: 2     coords: 15      18
+direction:1
+size of stack:  62
+[checkAvail]coords:   14   18
+options: 2     coords: 14      18
+direction:1
+size of stack:  63
+[checkAvail]coords:   13   18
+options: 3     coords: 13      18
+direction:1
+size of stack:  64
+[checkAvail]coords:   12   18
+options: 3     coords: 12      18
+direction:1
+size of stack:  65
+[checkAvail]coords:   11   18
+options: 3     coords: 11      18
+direction:0
+size of stack:  66
+[checkAvail]coords:   11   17
+options: 2     coords: 11      17
+direction:0
+size of stack:  67
+[checkAvail]coords:   11   16
+options: 3     coords: 11      16
+direction:0
+size of stack:  68
+[checkAvail]coords:   11   15
+options: 3     coords: 11      15
+direction:1
+size of stack:  69
+[checkAvail]coords:   10   15
+options: 2     coords: 10      15
+direction:0
+size of stack:  70
+[checkAvail]coords:   10   14
+options: 2     coords: 10      14
+direction:0
+size of stack:  71
+[checkAvail]coords:   10   13
+options: 3     coords: 10      13
+direction:3
+size of stack:  72
+[checkAvail]coords:   11   13
+options: 2     coords: 11      13
+direction:0
+size of stack:  73
+[checkAvail]coords:   11   12
+options: 2     coords: 11      12
+direction:3
+size of stack:  74
+[checkAvail]coords:   12   12
+options: 2     coords: 12      12
+direction:3
+size of stack:  75
+[checkAvail]coords:   13   12
+options: 3     coords: 13      12
+direction:3
+size of stack:  76
+[checkAvail]coords:   14   12
+options: 3     coords: 14      12
+direction:2
+size of stack:  77
+[checkAvail]coords:   14   13
+options: 2     coords: 14      13
+direction:2
+size of stack:  78
+[checkAvail]coords:   14   14
+options: 3     coords: 14      14
+direction:1
+size of stack:  79
+[checkAvail]coords:   13   14
+options: 2     coords: 13      14
+direction:2
+size of stack:  80
+[checkAvail]coords:   13   15
+options: 1     coords: 13      15
+direction:2
+size of stack:  81
+[checkAvail]coords:   13   16
+options: 1     coords: 13      16
+direction:3
+size of stack:  82
+[checkAvail]coords:   14   16
+options: 1     coords: 14      16
+direction:3
+size of stack:  83
+[checkAvail]coords:   15   16
+options: 1     coords: 15      16
+direction:0
+size of stack:  84
+[checkAvail]coords:   15   15
+options: 0     coords: 15      15
+pop
+size of stack:  83
+[checkAvail]coords:   15   16
+options: 0     coords: 15      16
+pop
+size of stack:  82
+[checkAvail]coords:   14   16
+options: 0     coords: 14      16
+pop
+size of stack:  81
+[checkAvail]coords:   13   16
+options: 0     coords: 13      16
+pop
+size of stack:  80
+[checkAvail]coords:   13   15
+options: 0     coords: 13      15
+pop
+size of stack:  79
+[checkAvail]coords:   13   14
+options: 1     coords: 13      14
+direction:1
+size of stack:  80
+[checkAvail]coords:   12   14
+options: 0     coords: 12      14
+pop
+size of stack:  79
+[checkAvail]coords:   13   14
+options: 0     coords: 13      14
+pop
+size of stack:  78
+[checkAvail]coords:   14   14
+options: 1     coords: 14      14
+direction:3
+size of stack:  79
+[checkAvail]coords:   15   14
+options: 0     coords: 15      14
+pop
+size of stack:  78
+[checkAvail]coords:   14   14
+options: 0     coords: 14      14
+pop
+size of stack:  77
+[checkAvail]coords:   14   13
+options: 1     coords: 14      13
+direction:3
+size of stack:  78
+[checkAvail]coords:   15   13
+options: 1     coords: 15      13
+direction:3
+size of stack:  79
+[checkAvail]coords:   16   13
+options: 1     coords: 16      13
+direction:0
+size of stack:  80
+[checkAvail]coords:   16   12
+options: 0     coords: 16      12
+pop
+size of stack:  79
+[checkAvail]coords:   16   13
+options: 0     coords: 16      13
+pop
+size of stack:  78
+[checkAvail]coords:   15   13
+options: 0     coords: 15      13
+pop
+size of stack:  77
+[checkAvail]coords:   14   13
+options: 0     coords: 14      13
+pop
+size of stack:  76
+[checkAvail]coords:   14   12
+options: 1     coords: 14      12
+direction:0
+size of stack:  77
+[checkAvail]coords:   14   11
+options: 2     coords: 14      11
+direction:3
+size of stack:  78
+[checkAvail]coords:   15   11
+options: 0     coords: 15      11
+pop
+size of stack:  77
+[checkAvail]coords:   14   11
+options: 1     coords: 14      11
+direction:0
+size of stack:  78
+[checkAvail]coords:   14   10
+options: 1     coords: 14      10
+direction:1
+size of stack:  79
+[checkAvail]coords:   13   10
+options: 2     coords: 13      10
+direction:1
+size of stack:  80
+[checkAvail]coords:   12   10
+options: 2     coords: 12      10
+direction:0
+size of stack:  81
+[checkAvail]coords:   12   9
+options: 2     coords: 12      9
+direction:0
+size of stack:  82
+[checkAvail]coords:   12   8
+options: 2     coords: 12      8
+direction:3
+size of stack:  83
+[checkAvail]coords:   13   8
+options: 0     coords: 13      8
+pop
+size of stack:  82
+[checkAvail]coords:   12   8
+options: 1     coords: 12      8
+direction:1
+size of stack:  83
+[checkAvail]coords:   11   8
+options: 2     coords: 11      8
+direction:0
+size of stack:  84
+[checkAvail]coords:   11   7
+options: 1     coords: 11      7
+direction:1
+size of stack:  85
+[checkAvail]coords:   10   7
+options: 2     coords: 10      7
+direction:0
+size of stack:  86
+[checkAvail]coords:   10   6
+options: 1     coords: 10      6
+direction:1
+size of stack:  87
+[checkAvail]coords:   9   6
+options: 2     coords: 9      6
+direction:0
+size of stack:  88
+[checkAvail]coords:   9   5
+options: 2     coords: 9      5
+direction:1
+size of stack:  89
+[checkAvail]coords:   8   5
+options: 2     coords: 8      5
+direction:1
+size of stack:  90
+[checkAvail]coords:   7   5
+options: 3     coords: 7      5
+direction:2
+size of stack:  91
+[checkAvail]coords:   7   6
+options: 2     coords: 7      6
+direction:1
+size of stack:  92
+[checkAvail]coords:   6   6
+options: 2     coords: 6      6
+direction:1
+size of stack:  93
+[checkAvail]coords:   5   6
+options: 3     coords: 5      6
+direction:1
+size of stack:  94
+[checkAvail]coords:   4   6
+options: 3     coords: 4      6
+direction:1
+size of stack:  95
+[checkAvail]coords:   3   6
+options: 3     coords: 3      6
+direction:1
+size of stack:  96
+[checkAvail]coords:   2   6
+options: 3     coords: 2      6
+direction:0
+size of stack:  97
+[checkAvail]coords:   2   5
+options: 2     coords: 2      5
+direction:0
+size of stack:  98
+[checkAvail]coords:   2   4
+options: 2     coords: 2      4
+direction:3
+size of stack:  99
+[checkAvail]coords:   3   4
+options: 0     coords: 3      4
+pop
+size of stack:  98
+[checkAvail]coords:   2   4
+options: 1     coords: 2      4
+direction:1
+size of stack:  99
+[checkAvail]coords:   1   4
+options: 0     coords: 1      4
+pop
+size of stack:  98
+[checkAvail]coords:   2   4
+options: 0     coords: 2      4
+pop
+size of stack:  97
+[checkAvail]coords:   2   5
+options: 1     coords: 2      5
+direction:1
+size of stack:  98
+[checkAvail]coords:   1   5
+options: 0     coords: 1      5
+pop
+size of stack:  97
+[checkAvail]coords:   2   5
+options: 0     coords: 2      5
+pop
+size of stack:  96
+[checkAvail]coords:   2   6
+options: 2     coords: 2      6
+direction:1
+size of stack:  97
+[checkAvail]coords:   1   6
+options: 1     coords: 1      6
+direction:2
+size of stack:  98
+[checkAvail]coords:   1   7
+options: 1     coords: 1      7
+direction:2
+size of stack:  99
+[checkAvail]coords:   1   8
+options: 2     coords: 1      8
+direction:3
+size of stack:  100
+[checkAvail]coords:   2   8
+options: 2     coords: 2      8
+direction:2
+size of stack:  101
+[checkAvail]coords:   2   9
+options: 2     coords: 2      9
+direction:2
+size of stack:  102
+[checkAvail]coords:   2   10
+options: 3     coords: 2      10
+direction:1
+size of stack:  103
+[checkAvail]coords:   1   10
+options: 1     coords: 1      10
+direction:2
+size of stack:  104
+[checkAvail]coords:   1   11
+options: 1     coords: 1      11
+direction:2
+size of stack:  105
+[checkAvail]coords:   1   12
+options: 2     coords: 1      12
+direction:2
+size of stack:  106
+[checkAvail]coords:   1   13
+options: 2     coords: 1      13
+direction:2
+size of stack:  107
+[checkAvail]coords:   1   14
+options: 2     coords: 1      14
+direction:2
+size of stack:  108
+[checkAvail]coords:   1   15
+options: 2     coords: 1      15
+direction:3
+size of stack:  109
+[checkAvail]coords:   2   15
+options: 2     coords: 2      15
+direction:2
+size of stack:  110
+[checkAvail]coords:   2   16
+options: 2     coords: 2      16
+direction:2
+size of stack:  111
+[checkAvail]coords:   2   17
+options: 3     coords: 2      17
+direction:2
+size of stack:  112
+[checkAvail]coords:   2   18
+options: 3     coords: 2      18
+direction:2
+size of stack:  113
+[checkAvail]coords:   2   19
+options: 2     coords: 2      19
+direction:1
+size of stack:  114
+[checkAvail]coords:   1   19
+options: 0     coords: 1      19
+pop
+size of stack:  113
+[checkAvail]coords:   2   19
+options: 1     coords: 2      19
+direction:3
+size of stack:  114
+[checkAvail]coords:   3   19
+options: 1     coords: 3      19
+direction:3
+size of stack:  115
+[checkAvail]coords:   4   19
+options: 2     coords: 4      19
+direction:3
+size of stack:  116
+[checkAvail]coords:   5   19
+options: 2     coords: 5      19
+direction:0
+size of stack:  117
+[checkAvail]coords:   5   18
+options: 2     coords: 5      18
+direction:0
+size of stack:  118
+[checkAvail]coords:   5   17
+options: 3     coords: 5      17
+direction:1
+size of stack:  119
+[checkAvail]coords:   4   17
+options: 1     coords: 4      17
+direction:0
+size of stack:  120
+[checkAvail]coords:   4   16
+options: 1     coords: 4      16
+direction:0
+size of stack:  121
+[checkAvail]coords:   4   15
+options: 2     coords: 4      15
+direction:3
+size of stack:  122
+[checkAvail]coords:   5   15
+options: 2     coords: 5      15
+direction:0
+size of stack:  123
+[checkAvail]coords:   5   14
+options: 2     coords: 5      14
+direction:0
+size of stack:  124
+[checkAvail]coords:   5   13
+options: 3     coords: 5      13
+direction:3
+size of stack:  125
+[checkAvail]coords:   6   13
+options: 2     coords: 6      13
+direction:3
+size of stack:  126
+[checkAvail]coords:   7   13
+options: 3     coords: 7      13
+direction:2
+size of stack:  127
+[checkAvail]coords:   7   14
+options: 2     coords: 7      14
+direction:2
+size of stack:  128
+[checkAvail]coords:   7   15
+options: 2     coords: 7      15
+direction:3
+size of stack:  129
+[checkAvail]coords:   8   15
+options: 1     coords: 8      15
+direction:2
+size of stack:  130
+[checkAvail]coords:   8   16
+options: 2     coords: 8      16
+direction:2
+size of stack:  131
+[checkAvail]coords:   8   17
+options: 3     coords: 8      17
+direction:3
+size of stack:  132
+[checkAvail]coords:   9   17
+options: 1     coords: 9      17
+direction:2
+size of stack:  133
+[checkAvail]coords:   9   18
+options: 1     coords: 9      18
+direction:2
+size of stack:  134
+[checkAvail]coords:   9   19
+options: 2     coords: 9      19
+direction:1
+size of stack:  135
+[checkAvail]coords:   8   19
+options: 1     coords: 8      19
+direction:1
+size of stack:  136
+[checkAvail]coords:   7   19
+options: 1     coords: 7      19
+direction:0
+size of stack:  137
+[checkAvail]coords:   7   18
+options: 0     coords: 7      18
+pop
+size of stack:  136
+[checkAvail]coords:   7   19
+options: 0     coords: 7      19
+pop
+size of stack:  135
+[checkAvail]coords:   8   19
+options: 0     coords: 8      19
+pop
+size of stack:  134
+[checkAvail]coords:   9   19
+options: 1     coords: 9      19
+direction:3
+size of stack:  135
+[checkAvail]coords:   10   19
+options: 1     coords: 10      19
+direction:3
+size of stack:  136
+[checkAvail]coords:   11   19
+options: 1     coords: 11      19
+direction:3
+size of stack:  137
+[checkAvail]coords:   12   19
+options: 1     coords: 12      19
+direction:3
+size of stack:  138
+[checkAvail]coords:   13   19
+options: 0     coords: 13      19
+pop
+size of stack:  137
+[checkAvail]coords:   12   19
+options: 0     coords: 12      19
+pop
+size of stack:  136
+[checkAvail]coords:   11   19
+options: 0     coords: 11      19
+pop
+size of stack:  135
+[checkAvail]coords:   10   19
+options: 0     coords: 10      19
+pop
+size of stack:  134
+[checkAvail]coords:   9   19
+options: 0     coords: 9      19
+pop
+size of stack:  133
+[checkAvail]coords:   9   18
+options: 0     coords: 9      18
+pop
+size of stack:  132
+[checkAvail]coords:   9   17
+options: 0     coords: 9      17
+pop
+size of stack:  131
+[checkAvail]coords:   8   17
+options: 1     coords: 8      17
+direction:1
+size of stack:  132
+[checkAvail]coords:   7   17
+options: 0     coords: 7      17
+pop
+size of stack:  131
+[checkAvail]coords:   8   17
+options: 0     coords: 8      17
+pop
+size of stack:  130
+[checkAvail]coords:   8   16
+options: 0     coords: 8      16
+pop
+size of stack:  129
+[checkAvail]coords:   8   15
+options: 0     coords: 8      15
+pop
+size of stack:  128
+[checkAvail]coords:   7   15
+options: 0     coords: 7      15
+pop
+size of stack:  127
+[checkAvail]coords:   7   14
+options: 0     coords: 7      14
+pop
+size of stack:  126
+[checkAvail]coords:   7   13
+options: 2     coords: 7      13
+direction:0
+size of stack:  127
+[checkAvail]coords:   7   12
+options: 2     coords: 7      12
+direction:3
+size of stack:  128
+[checkAvail]coords:   8   12
+options: 2     coords: 8      12
+direction:3
+size of stack:  129
+[checkAvail]coords:   9   12
+options: 1     coords: 9      12
+direction:0
+size of stack:  130
+[checkAvail]coords:   9   11
+options: 2     coords: 9      11
+direction:3
+size of stack:  131
+[checkAvail]coords:   10   11
+options: 1     coords: 10      11
+direction:0
+size of stack:  132
+[checkAvail]coords:   10   10
+options: 1     coords: 10      10
+direction:0
+size of stack:  133
+[checkAvail]coords:   10   9
+options: 1     coords: 10      9
+direction:1
+size of stack:  134
+[checkAvail]coords:   9   9
+options: 2     coords: 9      9
+direction:0
+size of stack:  135
+[checkAvail]coords:   9   8
+options: 1     coords: 9      8
+direction:1
+size of stack:  136
+[checkAvail]coords:   8   8
+options: 2     coords: 8      8
+direction:0
+size of stack:  137
+[checkAvail]coords:   8   7
+options: 0     coords: 8      7
+pop
+size of stack:  136
+[checkAvail]coords:   8   8
+options: 1     coords: 8      8
+direction:1
+size of stack:  137
+[checkAvail]coords:   7   8
+options: 2     coords: 7      8
+direction:2
+size of stack:  138
+[checkAvail]coords:   7   9
+options: 2     coords: 7      9
+direction:2
+size of stack:  139
+[checkAvail]coords:   7   10
+options: 2     coords: 7      10
+direction:1
+size of stack:  140
+[checkAvail]coords:   6   10
+options: 2     coords: 6      10
+direction:1
+size of stack:  141
+[checkAvail]coords:   5   10
+options: 3     coords: 5      10
+direction:2
+size of stack:  142
+[checkAvail]coords:   5   11
+options: 1     coords: 5      11
+direction:1
+size of stack:  143
+[checkAvail]coords:   4   11
+options: 2     coords: 4      11
+direction:2
+size of stack:  144
+[checkAvail]coords:   4   12
+options: 1     coords: 4      12
+direction:1
+size of stack:  145
+[checkAvail]coords:   3   12
+options: 1     coords: 3      12
+direction:2
+size of stack:  146
+[checkAvail]coords:   3   13
+options: 1     coords: 3      13
+direction:2
+size of stack:  147
+[checkAvail]coords:   3   14
+options: 0     coords: 3      14
+pop
+size of stack:  146
+[checkAvail]coords:   3   13
+options: 0     coords: 3      13
+pop
+size of stack:  145
+[checkAvail]coords:   3   12
+options: 0     coords: 3      12
+pop
+size of stack:  144
+[checkAvail]coords:   4   12
+options: 0     coords: 4      12
+pop
+size of stack:  143
+[checkAvail]coords:   4   11
+options: 0     coords: 4      11
+pop
+size of stack:  142
+[checkAvail]coords:   5   11
+options: 0     coords: 5      11
+pop
+size of stack:  141
+[checkAvail]coords:   5   10
+options: 1     coords: 5      10
+direction:0
+size of stack:  142
+[checkAvail]coords:   5   9
+options: 2     coords: 5      9
+direction:1
+size of stack:  143
+[checkAvail]coords:   4   9
+options: 1     coords: 4      9
+direction:0
+size of stack:  144
+[checkAvail]coords:   4   8
+options: 0     coords: 4      8
+pop
+size of stack:  143
+[checkAvail]coords:   4   9
+options: 0     coords: 4      9
+pop
+size of stack:  142
+[checkAvail]coords:   5   9
+options: 1     coords: 5      9
+direction:0
+size of stack:  143
+[checkAvail]coords:   5   8
+options: 0     coords: 5      8
+pop
+size of stack:  142
+[checkAvail]coords:   5   9
+options: 0     coords: 5      9
+pop
+size of stack:  141
+[checkAvail]coords:   5   10
+options: 0     coords: 5      10
+pop
+size of stack:  140
+[checkAvail]coords:   6   10
+options: 0     coords: 6      10
+pop
+size of stack:  139
+[checkAvail]coords:   7   10
+options: 1     coords: 7      10
+direction:3
+size of stack:  140
+[checkAvail]coords:   8   10
+options: 0     coords: 8      10
+pop
+size of stack:  139
+[checkAvail]coords:   7   10
+options: 0     coords: 7      10
+pop
+size of stack:  138
+[checkAvail]coords:   7   9
+options: 0     coords: 7      9
+pop
+size of stack:  137
+[checkAvail]coords:   7   8
+options: 1     coords: 7      8
+direction:1
+size of stack:  138
+[checkAvail]coords:   6   8
+options: 0     coords: 6      8
+pop
+size of stack:  137
+[checkAvail]coords:   7   8
+options: 0     coords: 7      8
+pop
+size of stack:  136
+[checkAvail]coords:   8   8
+options: 0     coords: 8      8
+pop
+size of stack:  135
+[checkAvail]coords:   9   8
+options: 0     coords: 9      8
+pop
+size of stack:  134
+[checkAvail]coords:   9   9
+options: 0     coords: 9      9
+pop
+size of stack:  133
+[checkAvail]coords:   10   9
+options: 0     coords: 10      9
+pop
+size of stack:  132
+[checkAvail]coords:   10   10
+options: 0     coords: 10      10
+pop
+size of stack:  131
+[checkAvail]coords:   10   11
+options: 0     coords: 10      11
+pop
+size of stack:  130
+[checkAvail]coords:   9   11
+options: 0     coords: 9      11
+pop
+size of stack:  129
+[checkAvail]coords:   9   12
+options: 0     coords: 9      12
+pop
+size of stack:  128
+[checkAvail]coords:   8   12
+options: 0     coords: 8      12
+pop
+size of stack:  127
+[checkAvail]coords:   7   12
+options: 0     coords: 7      12
+pop
+size of stack:  126
+[checkAvail]coords:   7   13
+options: 0     coords: 7      13
+pop
+size of stack:  125
+[checkAvail]coords:   6   13
+options: 0     coords: 6      13
+pop
+size of stack:  124
+[checkAvail]coords:   5   13
+options: 0     coords: 5      13
+pop
+size of stack:  123
+[checkAvail]coords:   5   14
+options: 0     coords: 5      14
+pop
+size of stack:  122
+[checkAvail]coords:   5   15
+options: 0     coords: 5      15
+pop
+size of stack:  121
+[checkAvail]coords:   4   15
+options: 0     coords: 4      15
+pop
+size of stack:  120
+[checkAvail]coords:   4   16
+options: 0     coords: 4      16
+pop
+size of stack:  119
+[checkAvail]coords:   4   17
+options: 0     coords: 4      17
+pop
+size of stack:  118
+[checkAvail]coords:   5   17
+options: 1     coords: 5      17
+direction:3
+size of stack:  119
+[checkAvail]coords:   6   17
+options: 1     coords: 6      17
+direction:0
+size of stack:  120
+[checkAvail]coords:   6   16
+options: 0     coords: 6      16
+pop
+size of stack:  119
+[checkAvail]coords:   6   17
+options: 0     coords: 6      17
+pop
+size of stack:  118
+[checkAvail]coords:   5   17
+options: 0     coords: 5      17
+pop
+size of stack:  117
+[checkAvail]coords:   5   18
+options: 0     coords: 5      18
+pop
+size of stack:  116
+[checkAvail]coords:   5   19
+options: 0     coords: 5      19
+pop
+size of stack:  115
+[checkAvail]coords:   4   19
+options: 0     coords: 4      19
+pop
+size of stack:  114
+[checkAvail]coords:   3   19
+options: 0     coords: 3      19
+pop
+size of stack:  113
+[checkAvail]coords:   2   19
+options: 0     coords: 2      19
+pop
+size of stack:  112
+[checkAvail]coords:   2   18
+options: 1     coords: 2      18
+direction:1
+size of stack:  113
+[checkAvail]coords:   1   18
+options: 0     coords: 1      18
+pop
+size of stack:  112
+[checkAvail]coords:   2   18
+options: 0     coords: 2      18
+pop
+size of stack:  111
+[checkAvail]coords:   2   17
+options: 1     coords: 2      17
+direction:1
+size of stack:  112
+[checkAvail]coords:   1   17
+options: 0     coords: 1      17
+pop
+size of stack:  111
+[checkAvail]coords:   2   17
+options: 0     coords: 2      17
+pop
+size of stack:  110
+[checkAvail]coords:   2   16
+options: 0     coords: 2      16
+pop
+size of stack:  109
+[checkAvail]coords:   2   15
+options: 0     coords: 2      15
+pop
+size of stack:  108
+[checkAvail]coords:   1   15
+options: 0     coords: 1      15
+pop
+size of stack:  107
+[checkAvail]coords:   1   14
+options: 0     coords: 1      14
+pop
+size of stack:  106
+[checkAvail]coords:   1   13
+options: 0     coords: 1      13
+pop
+size of stack:  105
+[checkAvail]coords:   1   12
+options: 0     coords: 1      12
+pop
+size of stack:  104
+[checkAvail]coords:   1   11
+options: 0     coords: 1      11
+pop
+size of stack:  103
+[checkAvail]coords:   1   10
+options: 0     coords: 1      10
+pop
+size of stack:  102
+[checkAvail]coords:   2   10
+options: 1     coords: 2      10
+direction:3
+size of stack:  103
+[checkAvail]coords:   3   10
+options: 0     coords: 3      10
+pop
+size of stack:  102
+[checkAvail]coords:   2   10
+options: 0     coords: 2      10
+pop
+size of stack:  101
+[checkAvail]coords:   2   9
+options: 0     coords: 2      9
+pop
+size of stack:  100
+[checkAvail]coords:   2   8
+options: 1     coords: 2      8
+direction:3
+size of stack:  101
+[checkAvail]coords:   3   8
+options: 0     coords: 3      8
+pop
+size of stack:  100
+[checkAvail]coords:   2   8
+options: 0     coords: 2      8
+pop
+size of stack:  99
+[checkAvail]coords:   1   8
+options: 0     coords: 1      8
+pop
+size of stack:  98
+[checkAvail]coords:   1   7
+options: 0     coords: 1      7
+pop
+size of stack:  97
+[checkAvail]coords:   1   6
+options: 0     coords: 1      6
+pop
+size of stack:  96
+[checkAvail]coords:   2   6
+options: 0     coords: 2      6
+pop
+size of stack:  95
+[checkAvail]coords:   3   6
+options: 1     coords: 3      6
+direction:2
+size of stack:  96
+[checkAvail]coords:   3   7
+options: 0     coords: 3      7
+pop
+size of stack:  95
+[checkAvail]coords:   3   6
+options: 0     coords: 3      6
+pop
+size of stack:  94
+[checkAvail]coords:   4   6
+options: 2     coords: 4      6
+direction:2
+size of stack:  95
+[checkAvail]coords:   4   7
+options: 0     coords: 4      7
+pop
+size of stack:  94
+[checkAvail]coords:   4   6
+options: 0     coords: 4      6
+pop
+size of stack:  93
+[checkAvail]coords:   5   6
+options: 2     coords: 5      6
+direction:2
+size of stack:  94
+[checkAvail]coords:   5   7
+options: 0     coords: 5      7
+pop
+size of stack:  93
+[checkAvail]coords:   5   6
+options: 0     coords: 5      6
+pop
+size of stack:  92
+[checkAvail]coords:   6   6
+options: 1     coords: 6      6
+direction:2
+size of stack:  93
+[checkAvail]coords:   6   7
+options: 0     coords: 6      7
+pop
+size of stack:  92
+[checkAvail]coords:   6   6
+options: 0     coords: 6      6
+pop
+size of stack:  91
+[checkAvail]coords:   7   6
+options: 0     coords: 7      6
+pop
+size of stack:  90
+[checkAvail]coords:   7   5
+options: 1     coords: 7      5
+direction:0
+size of stack:  91
+[checkAvail]coords:   7   4
+options: 0     coords: 7      4
+pop
+size of stack:  90
+[checkAvail]coords:   7   5
+options: 0     coords: 7      5
+pop
+size of stack:  89
+[checkAvail]coords:   8   5
+options: 1     coords: 8      5
+direction:0
+size of stack:  90
+[checkAvail]coords:   8   4
+options: 0     coords: 8      4
+pop
+size of stack:  89
+[checkAvail]coords:   8   5
+options: 0     coords: 8      5
+pop
+size of stack:  88
+[checkAvail]coords:   9   5
+options: 1     coords: 9      5
+direction:0
+size of stack:  89
+[checkAvail]coords:   9   4
+options: 0     coords: 9      4
+pop
+size of stack:  88
+[checkAvail]coords:   9   5
+options: 0     coords: 9      5
+pop
+size of stack:  87
+[checkAvail]coords:   9   6
+options: 0     coords: 9      6
+pop
+size of stack:  86
+[checkAvail]coords:   10   6
+options: 0     coords: 10      6
+pop
+size of stack:  85
+[checkAvail]coords:   10   7
+options: 0     coords: 10      7
+pop
+size of stack:  84
+[checkAvail]coords:   11   7
+options: 0     coords: 11      7
+pop
+size of stack:  83
+[checkAvail]coords:   11   8
+options: 0     coords: 11      8
+pop
+size of stack:  82
+[checkAvail]coords:   12   8
+options: 0     coords: 12      8
+pop
+size of stack:  81
+[checkAvail]coords:   12   9
+options: 0     coords: 12      9
+pop
+size of stack:  80
+[checkAvail]coords:   12   10
+options: 0     coords: 12      10
+pop
+size of stack:  79
+[checkAvail]coords:   13   10
+options: 0     coords: 13      10
+pop
+size of stack:  78
+[checkAvail]coords:   14   10
+options: 0     coords: 14      10
+pop
+size of stack:  77
+[checkAvail]coords:   14   11
+options: 0     coords: 14      11
+pop
+size of stack:  76
+[checkAvail]coords:   14   12
+options: 0     coords: 14      12
+pop
+size of stack:  75
+[checkAvail]coords:   13   12
+options: 0     coords: 13      12
+pop
+size of stack:  74
+[checkAvail]coords:   12   12
+options: 0     coords: 12      12
+pop
+size of stack:  73
+[checkAvail]coords:   11   12
+options: 0     coords: 11      12
+pop
+size of stack:  72
+[checkAvail]coords:   11   13
+options: 0     coords: 11      13
+pop
+size of stack:  71
+[checkAvail]coords:   10   13
+options: 0     coords: 10      13
+pop
+size of stack:  70
+[checkAvail]coords:   10   14
+options: 1     coords: 10      14
+direction:1
+size of stack:  71
+[checkAvail]coords:   9   14
+options: 0     coords: 9      14
+pop
+size of stack:  70
+[checkAvail]coords:   10   14
+options: 0     coords: 10      14
+pop
+size of stack:  69
+[checkAvail]coords:   10   15
+options: 0     coords: 10      15
+pop
+size of stack:  68
+[checkAvail]coords:   11   15
+options: 0     coords: 11      15
+pop
+size of stack:  67
+[checkAvail]coords:   11   16
+options: 0     coords: 11      16
+pop
+size of stack:  66
+[checkAvail]coords:   11   17
+options: 0     coords: 11      17
+pop
+size of stack:  65
+[checkAvail]coords:   11   18
+options: 0     coords: 11      18
+pop
+size of stack:  64
+[checkAvail]coords:   12   18
+options: 0     coords: 12      18
+pop
+size of stack:  63
+[checkAvail]coords:   13   18
+options: 0     coords: 13      18
+pop
+size of stack:  62
+[checkAvail]coords:   14   18
+options: 1     coords: 14      18
+direction:2
+size of stack:  63
+[checkAvail]coords:   14   19
+options: 0     coords: 14      19
+pop
+size of stack:  62
+[checkAvail]coords:   14   18
+options: 0     coords: 14      18
+pop
+size of stack:  61
+[checkAvail]coords:   15   18
+options: 0     coords: 15      18
+pop
+size of stack:  60
+[checkAvail]coords:   15   19
+options: 0     coords: 15      19
+pop
+size of stack:  59
+[checkAvail]coords:   16   19
+options: 0     coords: 16      19
+pop
+size of stack:  58
+[checkAvail]coords:   17   19
+options: 0     coords: 17      19
+pop
+size of stack:  57
+[checkAvail]coords:   17   18
+options: 0     coords: 17      18
+pop
+size of stack:  56
+[checkAvail]coords:   17   17
+options: 1     coords: 17      17
+direction:1
+size of stack:  57
+[checkAvail]coords:   16   17
+options: 0     coords: 16      17
+pop
+size of stack:  56
+[checkAvail]coords:   17   17
+options: 0     coords: 17      17
+pop
+size of stack:  55
+[checkAvail]coords:   17   16
+options: 0     coords: 17      16
+pop
+size of stack:  54
+[checkAvail]coords:   17   15
+options: 1     coords: 17      15
+direction:1
+size of stack:  55
+[checkAvail]coords:   16   15
+options: 0     coords: 16      15
+pop
+size of stack:  54
+[checkAvail]coords:   17   15
+options: 0     coords: 17      15
+pop
+size of stack:  53
+[checkAvail]coords:   17   14
+options: 0     coords: 17      14
+pop
+size of stack:  52
+[checkAvail]coords:   18   14
+options: 1     coords: 18      14
+direction:3
+size of stack:  53
+[checkAvail]coords:   19   14
+options: 0     coords: 19      14
+pop
+size of stack:  52
+[checkAvail]coords:   18   14
+options: 0     coords: 18      14
+pop
+size of stack:  51
+[checkAvail]coords:   18   13
+options: 0     coords: 18      13
+pop
+size of stack:  50
+[checkAvail]coords:   19   13
+options: 0     coords: 19      13
+pop
+size of stack:  49
+[checkAvail]coords:   19   12
+options: 0     coords: 19      12
+pop
+size of stack:  48
+[checkAvail]coords:   19   11
+options: 0     coords: 19      11
+pop
+size of stack:  47
+[checkAvail]coords:   18   11
+options: 0     coords: 18      11
+pop
+size of stack:  46
+[checkAvail]coords:   17   11
+options: 1     coords: 17      11
+direction:2
+size of stack:  47
+[checkAvail]coords:   17   12
+options: 0     coords: 17      12
+pop
+size of stack:  46
+[checkAvail]coords:   17   11
+options: 0     coords: 17      11
+pop
+size of stack:  45
+[checkAvail]coords:   17   10
+options: 0     coords: 17      10
+pop
+size of stack:  44
+[checkAvail]coords:   16   10
+options: 0     coords: 16      10
+pop
+size of stack:  43
+[checkAvail]coords:   16   9
+options: 0     coords: 16      9
+pop
+size of stack:  42
+[checkAvail]coords:   15   9
+options: 0     coords: 15      9
+pop
+size of stack:  41
+[checkAvail]coords:   15   8
+options: 1     coords: 15      8
+direction:1
+size of stack:  42
+[checkAvail]coords:   14   8
+options: 0     coords: 14      8
+pop
+size of stack:  41
+[checkAvail]coords:   15   8
+options: 0     coords: 15      8
+pop
+size of stack:  40
+[checkAvail]coords:   15   7
+options: 0     coords: 15      7
+pop
+size of stack:  39
+[checkAvail]coords:   16   7
+options: 0     coords: 16      7
+pop
+size of stack:  38
+[checkAvail]coords:   17   7
+options: 1     coords: 17      7
+direction:2
+size of stack:  39
+[checkAvail]coords:   17   8
+options: 0     coords: 17      8
+pop
+size of stack:  38
+[checkAvail]coords:   17   7
+options: 0     coords: 17      7
+pop
+size of stack:  37
+[checkAvail]coords:   18   7
+options: 2     coords: 18      7
+direction:2
+size of stack:  38
+[checkAvail]coords:   18   8
+options: 0     coords: 18      8
+pop
+size of stack:  37
+[checkAvail]coords:   18   7
+options: 1     coords: 18      7
+direction:3
+size of stack:  38
+[checkAvail]coords:   19   7
+options: 0     coords: 19      7
+pop
+size of stack:  37
+[checkAvail]coords:   18   7
+options: 0     coords: 18      7
+pop
+size of stack:  36
+[checkAvail]coords:   18   6
+options: 0     coords: 18      6
+pop
+size of stack:  35
+[checkAvail]coords:   19   6
+options: 0     coords: 19      6
+pop
+size of stack:  34
+[checkAvail]coords:   19   5
+options: 0     coords: 19      5
+pop
+size of stack:  33
+[checkAvail]coords:   19   4
+options: 1     coords: 19      4
+direction:1
+size of stack:  34
+[checkAvail]coords:   18   4
+options: 1     coords: 18      4
+direction:1
+size of stack:  35
+[checkAvail]coords:   17   4
+options: 1     coords: 17      4
+direction:2
+size of stack:  36
+[checkAvail]coords:   17   5
+options: 0     coords: 17      5
+pop
+size of stack:  35
+[checkAvail]coords:   17   4
+options: 0     coords: 17      4
+pop
+size of stack:  34
+[checkAvail]coords:   18   4
+options: 0     coords: 18      4
+pop
+size of stack:  33
+[checkAvail]coords:   19   4
+options: 0     coords: 19      4
+pop
+size of stack:  32
+[checkAvail]coords:   19   3
+options: 0     coords: 19      3
+pop
+size of stack:  31
+[checkAvail]coords:   19   2
+options: 0     coords: 19      2
+pop
+size of stack:  30
+[checkAvail]coords:   18   2
+options: 1     coords: 18      2
+direction:0
+size of stack:  31
+[checkAvail]coords:   18   1
+options: 0     coords: 18      1
+pop
+size of stack:  30
+[checkAvail]coords:   18   2
+options: 0     coords: 18      2
+pop
+size of stack:  29
+[checkAvail]coords:   17   2
+options: 0     coords: 17      2
+pop
+size of stack:  28
+[checkAvail]coords:   16   2
+options: 1     coords: 16      2
+direction:0
+size of stack:  29
+[checkAvail]coords:   16   1
+options: 0     coords: 16      1
+pop
+size of stack:  28
+[checkAvail]coords:   16   2
+options: 0     coords: 16      2
+pop
+size of stack:  27
+[checkAvail]coords:   16   3
+options: 0     coords: 16      3
+pop
+size of stack:  26
+[checkAvail]coords:   15   3
+options: 1     coords: 15      3
+direction:1
+size of stack:  27
+[checkAvail]coords:   14   3
+options: 2     coords: 14      3
+direction:1
+size of stack:  28
+[checkAvail]coords:   13   3
+options: 2     coords: 13      3
+direction:0
+size of stack:  29
+[checkAvail]coords:   13   2
+options: 2     coords: 13      2
+direction:1
+size of stack:  30
+[checkAvail]coords:   12   2
+options: 1     coords: 12      2
+direction:0
+size of stack:  31
+[checkAvail]coords:   12   1
+options: 0     coords: 12      1
+pop
+size of stack:  30
+[checkAvail]coords:   12   2
+options: 0     coords: 12      2
+pop
+size of stack:  29
+[checkAvail]coords:   13   2
+options: 1     coords: 13      2
+direction:0
+size of stack:  30
+[checkAvail]coords:   13   1
+options: 0     coords: 13      1
+pop
+size of stack:  29
+[checkAvail]coords:   13   2
+options: 0     coords: 13      2
+pop
+size of stack:  28
+[checkAvail]coords:   13   3
+options: 1     coords: 13      3
+direction:2
+size of stack:  29
+[checkAvail]coords:   13   4
+options: 0     coords: 13      4
+pop
+size of stack:  28
+[checkAvail]coords:   13   3
+options: 0     coords: 13      3
+pop
+size of stack:  27
+[checkAvail]coords:   14   3
+options: 0     coords: 14      3
+pop
+size of stack:  26
+[checkAvail]coords:   15   3
+options: 0     coords: 15      3
+pop
+size of stack:  25
+[checkAvail]coords:   15   4
+options: 0     coords: 15      4
+pop
+size of stack:  24
+[checkAvail]coords:   15   5
+options: 1     coords: 15      5
+direction:3
+size of stack:  25
+[checkAvail]coords:   16   5
+options: 0     coords: 16      5
+pop
+size of stack:  24
+[checkAvail]coords:   15   5
+options: 0     coords: 15      5
+pop
+size of stack:  23
+[checkAvail]coords:   14   5
+options: 0     coords: 14      5
+pop
+size of stack:  22
+[checkAvail]coords:   14   6
+options: 0     coords: 14      6
+pop
+size of stack:  21
+[checkAvail]coords:   13   6
+options: 1     coords: 13      6
+direction:2
+size of stack:  22
+[checkAvail]coords:   13   7
+options: 0     coords: 13      7
+pop
+size of stack:  21
+[checkAvail]coords:   13   6
+options: 0     coords: 13      6
+pop
+size of stack:  20
+[checkAvail]coords:   12   6
+options: 0     coords: 12      6
+pop
+size of stack:  19
+[checkAvail]coords:   12   5
+options: 0     coords: 12      5
+pop
+size of stack:  18
+[checkAvail]coords:   11   5
+options: 0     coords: 11      5
+pop
+size of stack:  17
+[checkAvail]coords:   11   4
+options: 0     coords: 11      4
+pop
+size of stack:  16
+[checkAvail]coords:   11   3
+options: 0     coords: 11      3
+pop
+size of stack:  15
+[checkAvail]coords:   10   3
+options: 0     coords: 10      3
+pop
+size of stack:  14
+[checkAvail]coords:   10   2
+options: 0     coords: 10      2
+pop
+size of stack:  13
+[checkAvail]coords:   9   2
+options: 1     coords: 9      2
+direction:0
+size of stack:  14
+[checkAvail]coords:   9   1
+options: 0     coords: 9      1
+pop
+size of stack:  13
+[checkAvail]coords:   9   2
+options: 0     coords: 9      2
+pop
+size of stack:  12
+[checkAvail]coords:   8   2
+options: 2     coords: 8      2
+direction:0
+size of stack:  13
+[checkAvail]coords:   8   1
+options: 0     coords: 8      1
+pop
+size of stack:  12
+[checkAvail]coords:   8   2
+options: 0     coords: 8      2
+pop
+size of stack:  11
+[checkAvail]coords:   7   2
+options: 0     coords: 7      2
+pop
+size of stack:  10
+[checkAvail]coords:   6   2
+options: 1     coords: 6      2
+direction:0
+size of stack:  11
+[checkAvail]coords:   6   1
+options: 0     coords: 6      1
+pop
+size of stack:  10
+[checkAvail]coords:   6   2
+options: 0     coords: 6      2
+pop
+size of stack:  9
+[checkAvail]coords:   6   3
+options: 1     coords: 6      3
+direction:2
+size of stack:  10
+[checkAvail]coords:   6   4
+options: 0     coords: 6      4
+pop
+size of stack:  9
+[checkAvail]coords:   6   3
+options: 0     coords: 6      3
+pop
+size of stack:  8
+[checkAvail]coords:   5   3
+options: 1     coords: 5      3
+direction:2
+size of stack:  9
+[checkAvail]coords:   5   4
+options: 0     coords: 5      4
+pop
+size of stack:  8
+[checkAvail]coords:   5   3
+options: 0     coords: 5      3
+pop
+size of stack:  7
+[checkAvail]coords:   4   3
+options: 1     coords: 4      3
+direction:2
+size of stack:  8
+[checkAvail]coords:   4   4
+options: 0     coords: 4      4
+pop
+size of stack:  7
+[checkAvail]coords:   4   3
+options: 0     coords: 4      3
+pop
+size of stack:  6
+[checkAvail]coords:   4   2
+options: 1     coords: 4      2
+direction:0
+size of stack:  7
+[checkAvail]coords:   4   1
+options: 0     coords: 4      1
+pop
+size of stack:  6
+[checkAvail]coords:   4   2
+options: 0     coords: 4      2
+pop
+size of stack:  5
+[checkAvail]coords:   3   2
+options: 1     coords: 3      2
+direction:0
+size of stack:  6
+[checkAvail]coords:   3   1
+options: 0     coords: 3      1
+pop
+size of stack:  5
+[checkAvail]coords:   3   2
+options: 0     coords: 3      2
+pop
+size of stack:  4
+[checkAvail]coords:   2   2
+options: 0     coords: 2      2
+pop
+size of stack:  3
+[checkAvail]coords:   1   2
+options: 1     coords: 1      2
+direction:2
+size of stack:  4
+[checkAvail]coords:   1   3
+options: 0     coords: 1      3
+pop
+size of stack:  3
+[checkAvail]coords:   1   2
+options: 0     coords: 1      2
+pop
+size of stack:  2
+[checkAvail]coords:   1   1
+options: 0     coords: 1      1
+pop
+size of stack:  1
+[checkAvail]coords:   1   0
+options: 0     coords: 1      0
+pop
